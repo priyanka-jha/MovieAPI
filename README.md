@@ -3,6 +3,7 @@ An android application created using third party API to show popular movies,rati
 
 **Third party libraries used:**
 
+   * [TMDB](https://www.themoviedb.org/settings/api)
    * [Retrofit](https://square.github.io/retrofit/)
    * [Picasso](https://github.com/square/picasso)
    * [Butterknife](https://github.com/JakeWharton/butterknife)
